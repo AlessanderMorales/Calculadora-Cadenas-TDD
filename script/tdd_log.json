@@ -8,9 +8,15 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "8432f3516dd26773964354e6fcebe900b72f3361",
     "commitName": "Ciclo 05: acepta guion como separador",
     "commitTimestamp": 1779937325918,
     "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Ciclo 06: acepta coma y guion mezclados",
+    "commitTimestamp": 1779939958008,
+    "testId": 1
   }
 ]

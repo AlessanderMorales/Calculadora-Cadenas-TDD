@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "8432f3516dd26773964354e6fcebe900b72f3361",
     "author": "AlessanderMorales",
     "commit": {
       "date": "2026-05-28T03:02:03.000Z",
       "message": "Ciclo 05: acepta guion como separador",
-      "url": "https://github.com/AlessanderMorales/Calculadora-Cadenas-TDD/commit/HEAD"
+      "url": "https://github.com/AlessanderMorales/Calculadora-Cadenas-TDD/commit/8432f3516dd26773964354e6fcebe900b72f3361"
     },
     "stats": {
       "total": 18,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AlessanderMorales",
+    "commit": {
+      "date": "2026-05-28T03:45:56.000Z",
+      "message": "Ciclo 06: acepta coma y guion mezclados",
+      "url": "https://github.com/AlessanderMorales/Calculadora-Cadenas-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }

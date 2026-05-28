@@ -21,3 +21,7 @@ test("varios numeros separados por coma retornan la suma", () => {
 test("numeros separados por guion retornan la suma", () => {
   expect(add("1-2-3")).toBe(6);
 });
+
+test("numeros separados por coma y guion retornan la suma", () => {
+  expect(add("1-2,3")).toBe(6);
+});
