@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "AlessanderMorales",
+    "commit": {
+      "date": "2026-05-28T03:02:03.000Z",
+      "message": "Ciclo 05: acepta guion como separador",
+      "url": "https://github.com/AlessanderMorales/Calculadora-Cadenas-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 17,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]

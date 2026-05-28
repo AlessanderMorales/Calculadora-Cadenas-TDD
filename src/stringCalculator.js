@@ -3,7 +3,7 @@ function add(cadena) {
     return 0;
   }
 
-  const numeros = cadena.split(",");
+  const numeros = cadena.split(/,|-/);
 
   return numeros.reduce((total, numero) => {
     return total + Number(numero);

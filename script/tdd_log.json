@@ -1,0 +1,16 @@
+[
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779937256703,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Ciclo 05: acepta guion como separador",
+    "commitTimestamp": 1779937325918,
+    "testId": 0
+  }
+]
