@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "aa47415be7c5809cbed06033b2377467e2167aca",
     "author": "AlessanderMorales",
     "commit": {
       "date": "2026-05-28T03:45:56.000Z",
       "message": "Ciclo 06: acepta coma y guion mezclados",
-      "url": "https://github.com/AlessanderMorales/Calculadora-Cadenas-TDD/commit/HEAD"
+      "url": "https://github.com/AlessanderMorales/Calculadora-Cadenas-TDD/commit/aa47415be7c5809cbed06033b2377467e2167aca"
     },
     "stats": {
       "total": 4,
@@ -36,5 +36,24 @@
     "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AlessanderMorales",
+    "commit": {
+      "date": "2026-05-28T03:54:10.000Z",
+      "message": "Ciclo 07: acepta delimitador personalizado simple",
+      "url": "https://github.com/AlessanderMorales/Calculadora-Cadenas-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 34,
+      "additions": 19,
+      "deletions": 15,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
