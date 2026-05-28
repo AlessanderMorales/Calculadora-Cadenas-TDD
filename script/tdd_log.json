@@ -20,9 +20,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7d5d6722559f03588ebfb33254e23007282296be",
     "commitName": "Ciclo 07: acepta delimitador personalizado simple",
     "commitTimestamp": 1779940452413,
     "testId": 2
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1779940525140,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1779941045192,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Ciclo 07: acepta delimitador personalizado simple",
+    "commitTimestamp": 1779941058584,
+    "testId": 3
   }
 ]

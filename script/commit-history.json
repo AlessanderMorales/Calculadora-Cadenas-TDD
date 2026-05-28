@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7d5d6722559f03588ebfb33254e23007282296be",
     "author": "AlessanderMorales",
     "commit": {
       "date": "2026-05-28T03:54:10.000Z",
       "message": "Ciclo 07: acepta delimitador personalizado simple",
-      "url": "https://github.com/AlessanderMorales/Calculadora-Cadenas-TDD/commit/HEAD"
+      "url": "https://github.com/AlessanderMorales/Calculadora-Cadenas-TDD/commit/7d5d6722559f03588ebfb33254e23007282296be"
     },
     "stats": {
       "total": 34,
@@ -55,5 +55,24 @@
     "test_count": 8,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "AlessanderMorales",
+    "commit": {
+      "date": "2026-05-28T04:04:17.000Z",
+      "message": "Ciclo 07: acepta delimitador personalizado simple",
+      "url": "https://github.com/AlessanderMorales/Calculadora-Cadenas-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 14,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
